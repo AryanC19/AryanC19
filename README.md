@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanC19
 - 👀 I’m interested in contributing on github to improve my skills
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning Android dev
 - 💞️ I’m looking to collaborate on multiple projects
 - 📫 How to reach me -socials/email
 
