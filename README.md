@@ -1,23 +1,9 @@
-<!--
-<h2 align="center">
-  Welcome to my github page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/AryanC19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Flutter%20Developer;;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp> Hey There!, I am
                 <b><a>Aryan Chaudhary</a></b>
         </samp>
-</h3>
+</h1>
 
 
 <p align="center"> 
@@ -46,14 +32,9 @@
 <br/>
 
 ## Use To Code
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-E34F26?style=for-the-badge&labelColor=black&logo=firebase&logoColor=F0DB4F)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,kotlin,vscode,dart,cpp,java,py,html,css,js,git,github,linux,figmar&theme=dark" />
+  </a>
 
 <br/>
 
