@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack Mobile appplication developer 」
+    「 I am a full stack Mobile application developer 」
     <br>
     <br>
   </samp>
